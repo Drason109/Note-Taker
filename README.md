@@ -20,10 +20,12 @@ To activite the server and use the app, run this command line
 node server.js
 ````
 
+![Screenshot 2023-11-08 211121](https://github.com/Drason109/Note-Taker/assets/50891894/029f1893-14da-4a5e-bf2d-932f129daf5f)
 
 
 
 
+![Screenshot 2023-11-08 211431](https://github.com/Drason109/Note-Taker/assets/50891894/c5d276d7-9319-4c9e-bf28-a2695f96251a)
 
 ## Credit
 
